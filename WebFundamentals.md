@@ -44,6 +44,8 @@ There are two types of TLD:
 
 ### What happens when you make a DNS request
 
+![alt text](image-1.png)
+
 - Your computer checks its local cache to see if it already knows the website’s IP address. If not, it asks a Recursive DNS Server (usually from your ISP).
 
 - If the Recursive DNS Server has the answer saved (cached), it sends it back immediately. If not, it asks a Root DNS Server.
