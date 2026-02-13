@@ -1,4 +1,4 @@
-# Day 2 - Web Server Challenge
+# Day 2 - Web Client Challenge
 
 ### 1st Challenge: Javascript - Obfuscation 2(Easy Mode)
 
@@ -10,7 +10,7 @@
 
 ### 2nd Challenge: Web Pack (Medium Mode)
 
-### 3rd Challenge: Javascript - Obfuscation 3
+### 3rd Challenge: Javascript - Obfuscation 3 (Medium Mode)
 
 1. Open the link "http://challenge01.root-me.org/web-client/ch13/ch13.html"
 
@@ -22,3 +22,4 @@
 
 5. use this password to validate the Challenge "786OsErtk12"
 
+### 4th Challenge: 
