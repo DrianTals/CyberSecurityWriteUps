@@ -21,7 +21,6 @@
 3. go to the Network Tab, and click login.js file
 
 4. and user and password would appear like this and use the password to validate completion of the challenge
-![alt text](image-2.png)
 
 ### 3rd Challenge: Javascript - Source (Easy Mode) 
 
@@ -32,7 +31,7 @@
 3. Click Cancel and right click the page and click "View Page Source" or Ctrl+U
 
 4. and this source will appear with its password and use the pass to validate complete the challenge
-![alt text](image-3.png)
+
 
 ### 4th Challenge: Javascript - Authentication 2 (Easy Mode)
 
@@ -43,7 +42,7 @@
 3. Click Cancel and right click the page and click "Inspect" and Go to Sources tab and find a **js** file 
 
 4. and this source will appear with its password and use the pass to validate complete the challenge (GOD is the user and HIDDEN is the password)
-![alt text](image-4.png)
+
 
 ### 5th Challenge: Javascript - Obfuscation 1 (Easy Mode)
 
@@ -56,5 +55,4 @@
 4. you can see "pass = %63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64" it is the password and its in ASCII Code, Convert it "cpasbiendurpassword"
 
 5. you can use the password to validate the challenge
-![alt text](image-5.png)
 
