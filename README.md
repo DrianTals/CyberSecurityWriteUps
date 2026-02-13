@@ -6,6 +6,7 @@
 - [RoadMap](RoadMap.md)
 
 ## Notes
+- [WebFundamentals](WebFundamentals.md)
 
 ## Writeup Challenge
 
