@@ -9,4 +9,4 @@
 - [WebFundamentals](WebFundamentals.md)
 
 ## Writeup Challenge
-
+- [Day 1](Day%1.md)
