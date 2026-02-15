@@ -7,3 +7,4 @@
 # Union-Based SQL Injection
 - This type of Injection utilises the SQL UNION operator alongside a SELECT statement to return additional results to the page. This method is the most common way of extracting large amounts of data via an SQL Injection vulnerability.
 
+[**Next**](InBandSQLiFlag.md)

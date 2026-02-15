@@ -40,4 +40,4 @@ Which will return the article with an ID of 2 whether it is set to public or not
 
 This was just one example of an SQL Injection vulnerability of a type called In-Band SQL Injection; there are three types in total: In-Band, Blind and Out-of-Band, which we'll discuss over the following tasks.
 
-[Next](InBandSQLi.md)
+[**Next**](InBandSQLi.md)
