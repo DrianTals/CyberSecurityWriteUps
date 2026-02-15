@@ -8,7 +8,7 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 
 ## Notes
 - [WebFundamentals](WebFundamentals.md)
-- [Offensive Security](OffensiveSecurity.md)
+- [SQL Injection](sqlinjection.md)
 
 ## Writeup Challenge
 - [Day 1: Web-Client](Day1.md)
@@ -17,4 +17,11 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 
 ## Tools
 - Burp Suite Community Edition
+- Guide: https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic
+
+## TryHackMe Paths
+
+- https://tryhackme.com/room/defensivesecurityintro
+- https://tryhackme.com/room/offensivesecurityintro
+- https://tryhackme.com/path/outline/web
 
