@@ -8,10 +8,12 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 
 ## Notes
 - [WebFundamentals](WebFundamentals.md)
+- [Offensive Security](OffensiveSecurity.md)
 
 ## Writeup Challenge
 - [Day 1: Web-Client](Day1.md)
 - [Day 2: Web-Client](Day2.md)
+- [Day 3: Web-Server](Day3.md)
 
 ## Tools
 - Burp Suite Community Edition
