@@ -11,9 +11,9 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - [SQL Injection](sqlinjection.md)
 
 ## Writeup Challenge
-- [Day 1: Web-Client](Day1.md)
-- [Day 2: Web-Client](Day2.md)
-- [Day 3: Web-Server](Day3.md)
+- [Day 1: Web-Client](DaysChallenge/Day1.md)
+- [Day 2: Web-Client](DaysChallenge/Day2.md)
+- [Day 3: Web-Server](DaysChallenge/Day3.md)
 
 ## Tools
 - Burp Suite Community Edition
@@ -25,3 +25,4 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - https://tryhackme.com/room/offensivesecurityintro
 - https://tryhackme.com/path/outline/web
 
+`
