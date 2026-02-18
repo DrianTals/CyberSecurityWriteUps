@@ -17,7 +17,8 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 
 ## Love at First Breach Challenge
 - [1st Challenge: Valefind](LoveAtFirstBridge/1stChallenge.md)
-
+- [2nd Challenge: Hidden Deep Into my Heart
+](LoveAtFirstBridge/2ndChallenge/DeepintomyHeart.md)
 ## Tools
 - Burp Suite Community Edition
 - Guide: https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic
