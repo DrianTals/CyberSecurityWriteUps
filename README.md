@@ -21,6 +21,8 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 ## Tools
 - Burp Suite Community Edition
 - Guide: https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic
+- Kali Linux Virtual Box: https://www.kali.org/get-kali/#kali-virtual-machines
+
 
 ## TryHackMe Paths
 
