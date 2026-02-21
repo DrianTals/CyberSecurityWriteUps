@@ -31,3 +31,7 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - https://tryhackme.com/room/offensivesecurityintro
 - https://tryhackme.com/path/outline/web
 - https://tryhackme.com/room/sqlinjectionlm
+- https://tryhackme.com/room/theciatriad
+- https://tryhackme.com/room/dnsindetail
+- https://tryhackme.com/room/databasesqlbasics
+- https://tryhackme.com/room/becomeahacker
