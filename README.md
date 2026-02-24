@@ -10,6 +10,9 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - [WebFundamentals](WebFundamentals.md)
 - [SQL Injection](sqlinjection.md)
 
+## CheatCodes
+- [Kali Linux & Burp Suite](CheatCodes.md)
+
 ## Writeup Challenge
 - [Day 1: Web-Client](DaysChallenge/Day1.md)
 - [Day 2: Web-Client](DaysChallenge/Day2.md)
