@@ -13,7 +13,8 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 ## CheatCodes
 - [Kali Linux & Burp Suite](CheatCodes.md)
 
-## Writeup Challenge
+## Writeup Challenge:
+### Total 🕸️Web Challenges Finished: **15**
 - [Day 1: Web-Client](DaysChallenge/Day1.md)
 - [Day 2: Web-Client](DaysChallenge/Day2.md)
 - [Day 3: Web-Server](DaysChallenge/Day3.md)
