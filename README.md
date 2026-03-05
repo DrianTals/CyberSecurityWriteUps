@@ -18,6 +18,7 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - [Day 2: Web-Client](DaysChallenge/Day2.md)
 - [Day 3: Web-Server](DaysChallenge/Day3.md)
 - [Day 4: Web-Server](DaysChallenge/Day4.md)
+- [Day 5: Web-Client](DaysChallenge/Day5.md)
 
 ----
 # CTF Challenges: 
