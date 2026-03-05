@@ -7,11 +7,11 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 - [RoadMap](RoadMap.md)
 
 ## Notes
-- [WebFundamentals](WebFundamentals.md)
-- [SQL Injection](sqlinjection.md)
+- [WebFundamentals](WebFundamentals/WebFundamentals.md)
+- [SQL Injection](WebFundamentals/sqlinjection.md)
 
 ## CheatCodes
-- [Kali Linux & Burp Suite](CheatCodes.md)
+- [Kali Linux & Burp Suite](Notes&CheatCodes/CheatCodes.md)
 
 ## 💀Root-Me Writeup Challenges:
 ### Total 🕸️Web Challenges Finished: **15**
