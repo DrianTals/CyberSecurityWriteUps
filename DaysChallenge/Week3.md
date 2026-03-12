@@ -1,4 +1,4 @@
-# Day 4 Web Server Challenge
+# Week 3 Web Server Challenge
 
 ### 1st Challenge PHP - Command injection (Easy)
 Objective: Read index.php

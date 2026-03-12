@@ -1,4 +1,4 @@
-# Day 3 Web Server Challenge
+# Week 2 Web Server Challenge
 
 ### 1st Challenge: HTML - Source code (Easy Mode)
 

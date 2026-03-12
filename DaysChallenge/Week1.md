@@ -1,4 +1,4 @@
-# Day 1 - Web-Client Challenge
+# Week 1 - Web-Client Challenge
 
 ### 1st Challenge: HTML - disabled buttons (Easy Mode)  
 

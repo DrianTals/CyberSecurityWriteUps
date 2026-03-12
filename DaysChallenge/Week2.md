@@ -1,4 +1,4 @@
-# Day 2 - Web Client Challenge
+# Week 2 - Web Client Challenge
 
 ### 1st Challenge: Javascript - Obfuscation 2(Easy Mode)
 

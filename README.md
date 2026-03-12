@@ -15,11 +15,11 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 
 ## 💀Root-Me Writeup Challenges:
 ### Total 🕸️Web Challenges Finished: **15**
-- [Day 1: Web-Client](DaysChallenge/Day1.md)
-- [Day 2: Web-Client](DaysChallenge/Day2.md)
-- [Day 3: Web-Server](DaysChallenge/Day3.md)
-- [Day 4: Web-Server](DaysChallenge/Day4.md)
-- [Day 5: Web-Client](DaysChallenge/Day5.md)
+- [Week 1: Web-Client](DaysChallenge/Week1.md)
+- [Week 2: Web-Client](DaysChallenge/Week2.md)
+- [Week 2: Web-Server](DaysChallenge/Week22.md)
+- [Week 3: Web-Server](DaysChallenge/Week3.md)
+- [Week 4: Web-Client](DaysChallenge/Week4.md)
 
 ----
 # CTF Challenges: 
