@@ -30,9 +30,9 @@ A compact collection of web exploitation writeups: concise challenge walkthrough
 ](LoveAtFirstBridge/2ndChallenge/DeepintomyHeart.md)
 
 ---
-## Midghtnight CTF March 13
-
-- 
+## Notes & Reflections & Individual Progress
+- [Individual Progress](IndividualProgress.md)
+- [Notes & Reflections](NotesReflections.md)
 
 ----
 ## Tools

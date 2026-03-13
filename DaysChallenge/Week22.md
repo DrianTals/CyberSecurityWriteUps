@@ -35,7 +35,7 @@
 
 5. Click Forward and refresh the page and click the Google Button, and validation Flag will appear.
 
-### 4th Challenge: HTTP - User-agent
+### 4th Challenge: HTTP - User-agent (Easy Mode)
 1. In Burp Suite, Open the link "http://challenge01.root-me.org/web-serveur/ch2/" in the browser and intercept it
 
 2. right click and send it to repeater
