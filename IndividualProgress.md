@@ -1,4 +1,4 @@
-# March Progress Summary   
+# February Progress Summary   
 
 ## Weekly Metrics  
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Weekly Points Breakdown  
+## Month Points Breakdown  
 
 | Source                  | Points |
 |-------------------------|--------|
@@ -23,7 +23,7 @@
 | Live CTF Participation  | 200 XP |
 | Live CTF Solves (2)     | 600 XP |
 | New Techniques Learned  | 200 XP |
-| **Weekly Total**        | **2,600 XP** |
+| **Total**        | **2,600 XP** |
 
 ---
 
